@@ -23,3 +23,14 @@ This repository serves as a practical demonstration of my proficiency in **Advan
 *💡 "Version control is not just about saving code; it's about documenting the thought process and protecting the team's workflow."*
 
 git pull origin main
+
+## 📸 Project Proof & Screenshots
+
+**1. Project Setup & Branching**
+![Setup Phase](assets/1.png)
+
+**2. Handling Merge Conflicts**
+![Conflict Resolution](assets/2.png)
+
+**3. Time Travel & History Rewriting**
+![Time Travel](assets/3.png)
