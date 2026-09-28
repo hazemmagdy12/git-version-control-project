@@ -26,11 +26,20 @@ git pull origin main
 
 ## 📸 Project Proof & Screenshots
 
-**1. Project Setup & Branching**
-![Setup Phase](assets/1.png)
+**1. Project Setup, Virtual Environment & Initial Commit**
+![Setup Phase](Assets/1.png)
 
-**2. Handling Merge Conflicts**
-![Conflict Resolution](assets/2.png)
+**2. Branching, Fast-Forward Merge & Creating Conflicts**
+![Branching & Merging](Assets/2.png)
 
-**3. Time Travel & History Rewriting**
-![Time Travel](assets/3.png)
+**3. Resolving Merge Conflicts & Hard Reset (Time Travel)**
+![Conflict Resolution & Reset](Assets/3.png)
+
+**4. Interactive Rebase & Forcing Updates**
+![Interactive Rebase](Assets/4.png)
+
+**5. Algorithmic Debugging (Git Bisect) & Release Tagging**
+![Git Bisect & Tags](Assets/5.png)
+
+**6. Git Stash, Worktrees & Finalizing Features**
+![Worktrees & Final Push](Assets/6.png)
